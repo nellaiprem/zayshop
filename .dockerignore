@@ -1,3 +1,6 @@
 .git
 .gitignore
+*.env
 *.sh
+node_modules
+Dockerfile
